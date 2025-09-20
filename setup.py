@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="orange3-regressionwidgets",
-    version="0.1.1",
+    version="0.1.2",
     description="Orange add-on with regression summary and backward elimination widgets",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
