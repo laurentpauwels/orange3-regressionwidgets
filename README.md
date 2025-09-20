@@ -13,3 +13,8 @@ To install from PyPI:
 
 ```bash
 pip install orange3-regression-widgets
+
+---
+
+## Project Link
+**Source**: [GitHub Repository](https://github.com/laurentpauwels/orange3-regressionwidgets)

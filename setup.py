@@ -18,8 +18,13 @@ setup(
         "orangecontrib.regressionsummary.widgets": ["icons/*.svg", "widgets.json"]
     },
     classifiers=[
-        "Framework :: Orange3",
-        "Programming Language :: Python :: 3",
+        'Development Status :: 3 - Alpha',
+        'Intended Audience :: Developers',
+        'License :: OSI Approved :: MIT License',
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.9',
+        'Topic :: Scientific/Engineering',
+        'Topic :: Software Development :: Libraries :: Python Modules',
     ],
     install_requires=[
         "Orange3>=3.30.0",
