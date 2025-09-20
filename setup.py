@@ -8,7 +8,11 @@ setup(
     long_description_content_type="text/markdown",
     author="Laurent Pauwels",
     author_email="laurent.pauwels@nyu.edu",
-    url="https://github.com/yourname/orange3-regressionwidgets",  # Optional
+    url="https://github.com/laurentpauwels/orange3-regressionwidgets",
+    project_urls={
+        "Source": "https://github.com/laurentpauwels/orange3-regressionwidgets",
+        "Bug Tracker": "https://github.com/laurentpauwels/orange3-regressionwidgets/issues",
+    },
     packages=find_packages(),
     package_data={
         "orangecontrib.regressionsummary.widgets": ["icons/*.svg", "widgets.json"]
